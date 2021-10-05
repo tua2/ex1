@@ -131,4 +131,10 @@ background: #dcdcdc;
     transform: translateX(0px);
   }
 
+  .post.hide {
+    display: none;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+  }
   
